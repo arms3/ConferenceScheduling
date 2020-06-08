@@ -1,0 +1,579 @@
+,Session 1,Session 2,Session 3
+0,Modern Culture of Data ,[Design Thinking] + [Lean] + [Agile],Intro to AI and ML
+1,Design Thinking for Experience & Service Design,Cloud Enablement 201 ,[Design Thinking] + [Lean] + [Agile]
+2,Design Thinking for Experience & Service Design,Robotic Process Automation (RPA),Intro to AI and ML
+3,Intro to AI and ML,Design Thinking for Experience & Service Design,[Design Thinking] + [Lean] + [Agile]
+4,Intro to AI and ML,Internet of Things,Cloud Enablement 201 
+5,Modern Culture of Data ,Intro to AI and ML,Design Thinking for Experience & Service Design
+6,Robotic Process Automation (RPA),Internet of Things,Intro to AI and ML
+7,Intro to AI and ML,[Design Thinking] + [Lean] + [Agile],Cloud Enablement 201 
+8,Internet of Things,Design Thinking for Experience & Service Design,[Design Thinking] + [Lean] + [Agile]
+9,Design Thinking for Experience & Service Design,Intro to AI and ML,Robotic Process Automation (RPA)
+10,Robotic Process Automation (RPA),[Design Thinking] + [Lean] + [Agile],Design Thinking for Experience & Service Design
+11,Design Thinking for Experience & Service Design,Intro to AI and ML,Cloud Enablement 201 
+12,Modern Culture of Data ,Robotic Process Automation (RPA),Intro to AI and ML
+13,Cloud Enablement 201 ,Robotic Process Automation (RPA),Intro to AI and ML
+14,Robotic Process Automation (RPA),Intro to AI and ML,[Design Thinking] + [Lean] + [Agile]
+15,Internet of Things,Modern Culture of Data ,Intro to AI and ML
+16,Internet of Things,Design Thinking for Experience & Service Design,[Design Thinking] + [Lean] + [Agile]
+17,Intro to AI and ML,Internet of Things,Robotic Process Automation (RPA)
+18,[Design Thinking] + [Lean] + [Agile],Cloud Enablement 201 ,Intro to AI and ML
+19,Intro to AI and ML,Robotic Process Automation (RPA),Internet of Things
+20,Modern Culture of Data ,Cloud Enablement 201 ,Intro to AI and ML
+21,Robotic Process Automation (RPA),Intro to AI and ML,[Design Thinking] + [Lean] + [Agile]
+22,[Design Thinking] + [Lean] + [Agile],Modern Culture of Data ,Intro to AI and ML
+23,Cloud Enablement 201 ,Design Thinking for Experience & Service Design,[Design Thinking] + [Lean] + [Agile]
+24,Robotic Process Automation (RPA),Intro to AI and ML,Internet of Things
+25,Internet of Things,Intro to AI and ML,Design Thinking for Experience & Service Design
+26,Cloud Enablement 201 ,Intro to AI and ML,[Design Thinking] + [Lean] + [Agile]
+27,Cloud Enablement 201 ,Internet of Things,Intro to AI and ML
+28,Internet of Things,Modern Culture of Data ,Design Thinking for Experience & Service Design
+29,Intro to AI and ML,Robotic Process Automation (RPA),Modern Culture of Data 
+30,Modern Culture of Data ,Internet of Things,Design Thinking for Experience & Service Design
+31,Robotic Process Automation (RPA),[Design Thinking] + [Lean] + [Agile],Internet of Things
+32,Design Thinking for Experience & Service Design,Modern Culture of Data ,[Design Thinking] + [Lean] + [Agile]
+33,Modern Culture of Data ,[Design Thinking] + [Lean] + [Agile],Robotic Process Automation (RPA)
+34,Modern Culture of Data ,Internet of Things,Cloud Enablement 201 
+35,Cloud Enablement 201 ,Modern Culture of Data ,Intro to AI and ML
+36,Modern Culture of Data ,Intro to AI and ML,Robotic Process Automation (RPA)
+37,Cloud Enablement 201 ,Design Thinking for Experience & Service Design,[Design Thinking] + [Lean] + [Agile]
+38,Modern Culture of Data ,Internet of Things,Intro to AI and ML
+39,Modern Culture of Data ,Design Thinking for Experience & Service Design,Cloud Enablement 201 
+40,Intro to AI and ML,Internet of Things,Design Thinking for Experience & Service Design
+41,Intro to AI and ML,Cloud Enablement 201 ,Modern Culture of Data 
+42,Cloud Enablement 201 ,Intro to AI and ML,Robotic Process Automation (RPA)
+43,Cloud Enablement 201 ,Intro to AI and ML,Design Thinking for Experience & Service Design
+44,Intro to AI and ML,Design Thinking for Experience & Service Design,Cloud Enablement 201 
+45,Design Thinking for Experience & Service Design,Modern Culture of Data ,Intro to AI and ML
+46,Modern Culture of Data ,Intro to AI and ML,Cloud Enablement 201 
+47,Modern Culture of Data ,Cloud Enablement 201 ,[Design Thinking] + [Lean] + [Agile]
+48,Internet of Things,Intro to AI and ML,Cloud Enablement 201 
+49,Modern Culture of Data ,Intro to AI and ML,Cloud Enablement 201 
+50,Modern Culture of Data ,[Design Thinking] + [Lean] + [Agile],Design Thinking for Experience & Service Design
+51,Robotic Process Automation (RPA),Modern Culture of Data ,Cloud Enablement 201 
+52,Design Thinking for Experience & Service Design,[Design Thinking] + [Lean] + [Agile],Internet of Things
+53,Cloud Enablement 201 ,Intro to AI and ML,Internet of Things
+54,Robotic Process Automation (RPA),Internet of Things,Design Thinking for Experience & Service Design
+55,Cloud Enablement 201 ,Modern Culture of Data ,Intro to AI and ML
+56,[Design Thinking] + [Lean] + [Agile],Design Thinking for Experience & Service Design,Cloud Enablement 201 
+57,Internet of Things,Design Thinking for Experience & Service Design,[Design Thinking] + [Lean] + [Agile]
+58,Internet of Things,Modern Culture of Data ,Intro to AI and ML
+59,Intro to AI and ML,Modern Culture of Data ,Cloud Enablement 201 
+60,Design Thinking for Experience & Service Design,Intro to AI and ML,Robotic Process Automation (RPA)
+61,[Design Thinking] + [Lean] + [Agile],Intro to AI and ML,Robotic Process Automation (RPA)
+62,Robotic Process Automation (RPA),Intro to AI and ML,Modern Culture of Data 
+63,Robotic Process Automation (RPA),Intro to AI and ML,Design Thinking for Experience & Service Design
+64,[Design Thinking] + [Lean] + [Agile],Robotic Process Automation (RPA),Internet of Things
+65,[Design Thinking] + [Lean] + [Agile],Robotic Process Automation (RPA),Design Thinking for Experience & Service Design
+66,Modern Culture of Data ,Internet of Things,Cloud Enablement 201 
+67,[Design Thinking] + [Lean] + [Agile],Robotic Process Automation (RPA),Modern Culture of Data 
+68,Internet of Things,Robotic Process Automation (RPA),Cloud Enablement 201 
+69,Robotic Process Automation (RPA),Cloud Enablement 201 ,Modern Culture of Data 
+70,Cloud Enablement 201 ,Intro to AI and ML,Internet of Things
+71,Design Thinking for Experience & Service Design,Internet of Things,[Design Thinking] + [Lean] + [Agile]
+72,Robotic Process Automation (RPA),Intro to AI and ML,Internet of Things
+73,Modern Culture of Data ,Design Thinking for Experience & Service Design,Robotic Process Automation (RPA)
+74,Modern Culture of Data ,Intro to AI and ML,[Design Thinking] + [Lean] + [Agile]
+75,Design Thinking for Experience & Service Design,Robotic Process Automation (RPA),[Design Thinking] + [Lean] + [Agile]
+76,Intro to AI and ML,[Design Thinking] + [Lean] + [Agile],Modern Culture of Data 
+77,Intro to AI and ML,Design Thinking for Experience & Service Design,Robotic Process Automation (RPA)
+78,Robotic Process Automation (RPA),[Design Thinking] + [Lean] + [Agile],Cloud Enablement 201 
+79,Cloud Enablement 201 ,Robotic Process Automation (RPA),Modern Culture of Data 
+80,Cloud Enablement 201 ,Intro to AI and ML,Modern Culture of Data 
+81,[Design Thinking] + [Lean] + [Agile],Robotic Process Automation (RPA),Intro to AI and ML
+82,Intro to AI and ML,Cloud Enablement 201 ,[Design Thinking] + [Lean] + [Agile]
+83,[Design Thinking] + [Lean] + [Agile],Cloud Enablement 201 ,Modern Culture of Data 
+84,Internet of Things,Modern Culture of Data ,[Design Thinking] + [Lean] + [Agile]
+85,Internet of Things,Cloud Enablement 201 ,Intro to AI and ML
+86,Intro to AI and ML,Modern Culture of Data ,[Design Thinking] + [Lean] + [Agile]
+87,Robotic Process Automation (RPA),[Design Thinking] + [Lean] + [Agile],Cloud Enablement 201 
+88,Design Thinking for Experience & Service Design,Modern Culture of Data ,Robotic Process Automation (RPA)
+89,[Design Thinking] + [Lean] + [Agile],Robotic Process Automation (RPA),Internet of Things
+90,[Design Thinking] + [Lean] + [Agile],Modern Culture of Data ,Internet of Things
+91,[Design Thinking] + [Lean] + [Agile],Modern Culture of Data ,Design Thinking for Experience & Service Design
+92,Intro to AI and ML,[Design Thinking] + [Lean] + [Agile],Design Thinking for Experience & Service Design
+93,Modern Culture of Data ,Intro to AI and ML,Robotic Process Automation (RPA)
+94,Robotic Process Automation (RPA),Intro to AI and ML,Modern Culture of Data 
+95,Robotic Process Automation (RPA),Internet of Things,Modern Culture of Data 
+96,Modern Culture of Data ,[Design Thinking] + [Lean] + [Agile],Cloud Enablement 201 
+97,Internet of Things,Intro to AI and ML,[Design Thinking] + [Lean] + [Agile]
+98,Cloud Enablement 201 ,Intro to AI and ML,Internet of Things
+99,Internet of Things,[Design Thinking] + [Lean] + [Agile],Intro to AI and ML
+100,Modern Culture of Data ,[Design Thinking] + [Lean] + [Agile],Intro to AI and ML
+101,[Design Thinking] + [Lean] + [Agile],Robotic Process Automation (RPA),Internet of Things
+102,Intro to AI and ML,Modern Culture of Data ,Cloud Enablement 201 
+103,Modern Culture of Data ,Cloud Enablement 201 ,Internet of Things
+104,Design Thinking for Experience & Service Design,[Design Thinking] + [Lean] + [Agile],Cloud Enablement 201 
+105,Cloud Enablement 201 ,[Design Thinking] + [Lean] + [Agile],Robotic Process Automation (RPA)
+106,Cloud Enablement 201 ,Internet of Things,Modern Culture of Data 
+107,Internet of Things,Design Thinking for Experience & Service Design,[Design Thinking] + [Lean] + [Agile]
+108,Cloud Enablement 201 ,Internet of Things,Modern Culture of Data 
+109,Cloud Enablement 201 ,Robotic Process Automation (RPA),Modern Culture of Data 
+110,Design Thinking for Experience & Service Design,[Design Thinking] + [Lean] + [Agile],Cloud Enablement 201 
+111,Design Thinking for Experience & Service Design,Internet of Things,[Design Thinking] + [Lean] + [Agile]
+112,Intro to AI and ML,Modern Culture of Data ,Internet of Things
+113,Cloud Enablement 201 ,Intro to AI and ML,Robotic Process Automation (RPA)
+114,Internet of Things,Cloud Enablement 201 ,Intro to AI and ML
+115,Cloud Enablement 201 ,Robotic Process Automation (RPA),Intro to AI and ML
+116,Design Thinking for Experience & Service Design,[Design Thinking] + [Lean] + [Agile],Cloud Enablement 201 
+117,Modern Culture of Data ,Intro to AI and ML,Internet of Things
+118,Cloud Enablement 201 ,Modern Culture of Data ,Intro to AI and ML
+119,Design Thinking for Experience & Service Design,Modern Culture of Data ,[Design Thinking] + [Lean] + [Agile]
+120,[Design Thinking] + [Lean] + [Agile],Design Thinking for Experience & Service Design,Cloud Enablement 201 
+121,Internet of Things,Cloud Enablement 201 ,[Design Thinking] + [Lean] + [Agile]
+122,Modern Culture of Data ,[Design Thinking] + [Lean] + [Agile],Intro to AI and ML
+123,Design Thinking for Experience & Service Design,Robotic Process Automation (RPA),Modern Culture of Data 
+124,[Design Thinking] + [Lean] + [Agile],Cloud Enablement 201 ,Modern Culture of Data 
+125,Robotic Process Automation (RPA),Cloud Enablement 201 ,[Design Thinking] + [Lean] + [Agile]
+126,Cloud Enablement 201 ,Design Thinking for Experience & Service Design,Internet of Things
+127,Cloud Enablement 201 ,Internet of Things,Design Thinking for Experience & Service Design
+128,Cloud Enablement 201 ,Modern Culture of Data ,Intro to AI and ML
+129,Cloud Enablement 201 ,[Design Thinking] + [Lean] + [Agile],Intro to AI and ML
+130,Modern Culture of Data ,Cloud Enablement 201 ,Intro to AI and ML
+131,Modern Culture of Data ,Intro to AI and ML,[Design Thinking] + [Lean] + [Agile]
+132,Design Thinking for Experience & Service Design,Modern Culture of Data ,Intro to AI and ML
+133,Intro to AI and ML,Modern Culture of Data ,[Design Thinking] + [Lean] + [Agile]
+134,Design Thinking for Experience & Service Design,Cloud Enablement 201 ,Robotic Process Automation (RPA)
+135,[Design Thinking] + [Lean] + [Agile],Intro to AI and ML,Internet of Things
+136,Design Thinking for Experience & Service Design,Internet of Things,[Design Thinking] + [Lean] + [Agile]
+137,[Design Thinking] + [Lean] + [Agile],Design Thinking for Experience & Service Design,Intro to AI and ML
+138,Cloud Enablement 201 ,Design Thinking for Experience & Service Design,[Design Thinking] + [Lean] + [Agile]
+139,Intro to AI and ML,Modern Culture of Data ,Internet of Things
+140,Intro to AI and ML,Modern Culture of Data ,Internet of Things
+141,Intro to AI and ML,Modern Culture of Data ,Internet of Things
+142,Cloud Enablement 201 ,Intro to AI and ML,Robotic Process Automation (RPA)
+143,Design Thinking for Experience & Service Design,[Design Thinking] + [Lean] + [Agile],Robotic Process Automation (RPA)
+144,Design Thinking for Experience & Service Design,[Design Thinking] + [Lean] + [Agile],Modern Culture of Data 
+145,Internet of Things,Modern Culture of Data ,[Design Thinking] + [Lean] + [Agile]
+146,Modern Culture of Data ,Cloud Enablement 201 ,Design Thinking for Experience & Service Design
+147,Cloud Enablement 201 ,Modern Culture of Data ,Robotic Process Automation (RPA)
+148,[Design Thinking] + [Lean] + [Agile],Modern Culture of Data ,Design Thinking for Experience & Service Design
+149,Modern Culture of Data ,Internet of Things,Intro to AI and ML
+150,Design Thinking for Experience & Service Design,Internet of Things,[Design Thinking] + [Lean] + [Agile]
+151,Design Thinking for Experience & Service Design,Intro to AI and ML,Internet of Things
+152,Cloud Enablement 201 ,Design Thinking for Experience & Service Design,[Design Thinking] + [Lean] + [Agile]
+153,Robotic Process Automation (RPA),Intro to AI and ML,Design Thinking for Experience & Service Design
+154,Modern Culture of Data ,Cloud Enablement 201 ,[Design Thinking] + [Lean] + [Agile]
+155,Robotic Process Automation (RPA),Design Thinking for Experience & Service Design,Modern Culture of Data 
+156,Robotic Process Automation (RPA),Internet of Things,Intro to AI and ML
+157,[Design Thinking] + [Lean] + [Agile],Cloud Enablement 201 ,Intro to AI and ML
+158,Robotic Process Automation (RPA),Design Thinking for Experience & Service Design,Modern Culture of Data 
+159,Modern Culture of Data ,Robotic Process Automation (RPA),[Design Thinking] + [Lean] + [Agile]
+160,[Design Thinking] + [Lean] + [Agile],Modern Culture of Data ,Design Thinking for Experience & Service Design
+161,Modern Culture of Data ,Cloud Enablement 201 ,[Design Thinking] + [Lean] + [Agile]
+162,Robotic Process Automation (RPA),[Design Thinking] + [Lean] + [Agile],Modern Culture of Data 
+163,Robotic Process Automation (RPA),Design Thinking for Experience & Service Design,Modern Culture of Data 
+164,[Design Thinking] + [Lean] + [Agile],Intro to AI and ML,Cloud Enablement 201 
+165,Modern Culture of Data ,Cloud Enablement 201 ,Internet of Things
+166,Modern Culture of Data ,Robotic Process Automation (RPA),Cloud Enablement 201 
+167,Robotic Process Automation (RPA),Design Thinking for Experience & Service Design,Modern Culture of Data 
+168,Intro to AI and ML,Internet of Things,[Design Thinking] + [Lean] + [Agile]
+169,Modern Culture of Data ,Design Thinking for Experience & Service Design,[Design Thinking] + [Lean] + [Agile]
+170,Design Thinking for Experience & Service Design,[Design Thinking] + [Lean] + [Agile],Modern Culture of Data 
+171,Modern Culture of Data ,Robotic Process Automation (RPA),Intro to AI and ML
+172,Cloud Enablement 201 ,[Design Thinking] + [Lean] + [Agile],Internet of Things
+173,Intro to AI and ML,Modern Culture of Data ,Internet of Things
+174,Robotic Process Automation (RPA),Intro to AI and ML,Modern Culture of Data 
+175,Modern Culture of Data ,Internet of Things,Intro to AI and ML
+176,Design Thinking for Experience & Service Design,Internet of Things,[Design Thinking] + [Lean] + [Agile]
+177,Robotic Process Automation (RPA),[Design Thinking] + [Lean] + [Agile],Cloud Enablement 201 
+178,Cloud Enablement 201 ,Robotic Process Automation (RPA),Modern Culture of Data 
+179,Design Thinking for Experience & Service Design,[Design Thinking] + [Lean] + [Agile],Robotic Process Automation (RPA)
+180,[Design Thinking] + [Lean] + [Agile],Modern Culture of Data ,Intro to AI and ML
+181,Internet of Things,Intro to AI and ML,[Design Thinking] + [Lean] + [Agile]
+182,Intro to AI and ML,Internet of Things,Cloud Enablement 201 
+183,Intro to AI and ML,Robotic Process Automation (RPA),Design Thinking for Experience & Service Design
+184,Design Thinking for Experience & Service Design,Internet of Things,Intro to AI and ML
+185,Design Thinking for Experience & Service Design,Robotic Process Automation (RPA),Cloud Enablement 201 
+186,Intro to AI and ML,[Design Thinking] + [Lean] + [Agile],Modern Culture of Data 
+187,Cloud Enablement 201 ,Design Thinking for Experience & Service Design,Modern Culture of Data 
+188,Internet of Things,Intro to AI and ML,Modern Culture of Data 
+189,[Design Thinking] + [Lean] + [Agile],Design Thinking for Experience & Service Design,Robotic Process Automation (RPA)
+190,Internet of Things,Intro to AI and ML,Cloud Enablement 201 
+191,Cloud Enablement 201 ,[Design Thinking] + [Lean] + [Agile],Modern Culture of Data 
+192,Internet of Things,[Design Thinking] + [Lean] + [Agile],Intro to AI and ML
+193,Cloud Enablement 201 ,Intro to AI and ML,Robotic Process Automation (RPA)
+194,[Design Thinking] + [Lean] + [Agile],Design Thinking for Experience & Service Design,Internet of Things
+195,Internet of Things,Robotic Process Automation (RPA),Intro to AI and ML
+196,Modern Culture of Data ,Design Thinking for Experience & Service Design,Robotic Process Automation (RPA)
+197,Intro to AI and ML,Design Thinking for Experience & Service Design,[Design Thinking] + [Lean] + [Agile]
+198,[Design Thinking] + [Lean] + [Agile],Modern Culture of Data ,Design Thinking for Experience & Service Design
+199,Robotic Process Automation (RPA),Internet of Things,Design Thinking for Experience & Service Design
+200,Design Thinking for Experience & Service Design,[Design Thinking] + [Lean] + [Agile],Modern Culture of Data 
+201,Cloud Enablement 201 ,[Design Thinking] + [Lean] + [Agile],Design Thinking for Experience & Service Design
+202,Modern Culture of Data ,Intro to AI and ML,Robotic Process Automation (RPA)
+203,Robotic Process Automation (RPA),Modern Culture of Data ,Design Thinking for Experience & Service Design
+204,Design Thinking for Experience & Service Design,Cloud Enablement 201 ,Internet of Things
+205,Design Thinking for Experience & Service Design,[Design Thinking] + [Lean] + [Agile],Robotic Process Automation (RPA)
+206,Cloud Enablement 201 ,[Design Thinking] + [Lean] + [Agile],Modern Culture of Data 
+207,Robotic Process Automation (RPA),[Design Thinking] + [Lean] + [Agile],Design Thinking for Experience & Service Design
+208,[Design Thinking] + [Lean] + [Agile],Internet of Things,Design Thinking for Experience & Service Design
+209,[Design Thinking] + [Lean] + [Agile],Modern Culture of Data ,Design Thinking for Experience & Service Design
+210,Cloud Enablement 201 ,Internet of Things,Modern Culture of Data 
+211,[Design Thinking] + [Lean] + [Agile],Design Thinking for Experience & Service Design,Modern Culture of Data 
+212,Modern Culture of Data ,Internet of Things,Robotic Process Automation (RPA)
+213,Cloud Enablement 201 ,Modern Culture of Data ,[Design Thinking] + [Lean] + [Agile]
+214,Robotic Process Automation (RPA),Internet of Things,[Design Thinking] + [Lean] + [Agile]
+215,[Design Thinking] + [Lean] + [Agile],Modern Culture of Data ,Design Thinking for Experience & Service Design
+216,Robotic Process Automation (RPA),Internet of Things,Intro to AI and ML
+217,[Design Thinking] + [Lean] + [Agile],Modern Culture of Data ,Cloud Enablement 201 
+218,Modern Culture of Data ,Cloud Enablement 201 ,Design Thinking for Experience & Service Design
+219,Modern Culture of Data ,Design Thinking for Experience & Service Design,[Design Thinking] + [Lean] + [Agile]
+220,Design Thinking for Experience & Service Design,[Design Thinking] + [Lean] + [Agile],Modern Culture of Data 
+221,Robotic Process Automation (RPA),Cloud Enablement 201 ,Modern Culture of Data 
+222,Intro to AI and ML,[Design Thinking] + [Lean] + [Agile],Design Thinking for Experience & Service Design
+223,[Design Thinking] + [Lean] + [Agile],Design Thinking for Experience & Service Design,Internet of Things
+224,Cloud Enablement 201 ,Internet of Things,Robotic Process Automation (RPA)
+225,Cloud Enablement 201 ,Modern Culture of Data ,Robotic Process Automation (RPA)
+226,[Design Thinking] + [Lean] + [Agile],Design Thinking for Experience & Service Design,Cloud Enablement 201 
+227,Cloud Enablement 201 ,Design Thinking for Experience & Service Design,Intro to AI and ML
+228,Intro to AI and ML,Internet of Things,Robotic Process Automation (RPA)
+229,Intro to AI and ML,Design Thinking for Experience & Service Design,Modern Culture of Data 
+230,Design Thinking for Experience & Service Design,Intro to AI and ML,Robotic Process Automation (RPA)
+231,Modern Culture of Data ,Design Thinking for Experience & Service Design,[Design Thinking] + [Lean] + [Agile]
+232,Modern Culture of Data ,Robotic Process Automation (RPA),Intro to AI and ML
+233,[Design Thinking] + [Lean] + [Agile],Robotic Process Automation (RPA),Modern Culture of Data 
+234,Cloud Enablement 201 ,Robotic Process Automation (RPA),Intro to AI and ML
+235,Modern Culture of Data ,[Design Thinking] + [Lean] + [Agile],Cloud Enablement 201 
+236,Internet of Things,Intro to AI and ML,Design Thinking for Experience & Service Design
+237,Modern Culture of Data ,Cloud Enablement 201 ,Intro to AI and ML
+238,Design Thinking for Experience & Service Design,Robotic Process Automation (RPA),[Design Thinking] + [Lean] + [Agile]
+239,Modern Culture of Data ,Internet of Things,Intro to AI and ML
+240,Internet of Things,Robotic Process Automation (RPA),[Design Thinking] + [Lean] + [Agile]
+241,[Design Thinking] + [Lean] + [Agile],Modern Culture of Data ,Design Thinking for Experience & Service Design
+242,Modern Culture of Data ,Robotic Process Automation (RPA),Intro to AI and ML
+243,Cloud Enablement 201 ,[Design Thinking] + [Lean] + [Agile],Modern Culture of Data 
+244,Intro to AI and ML,Modern Culture of Data ,Design Thinking for Experience & Service Design
+245,[Design Thinking] + [Lean] + [Agile],Cloud Enablement 201 ,Design Thinking for Experience & Service Design
+246,Cloud Enablement 201 ,[Design Thinking] + [Lean] + [Agile],Intro to AI and ML
+247,Robotic Process Automation (RPA),Cloud Enablement 201 ,[Design Thinking] + [Lean] + [Agile]
+248,[Design Thinking] + [Lean] + [Agile],Design Thinking for Experience & Service Design,Modern Culture of Data 
+249,Robotic Process Automation (RPA),[Design Thinking] + [Lean] + [Agile],Internet of Things
+250,Intro to AI and ML,Cloud Enablement 201 ,Modern Culture of Data 
+251,Design Thinking for Experience & Service Design,Cloud Enablement 201 ,Modern Culture of Data 
+252,Internet of Things,Robotic Process Automation (RPA),[Design Thinking] + [Lean] + [Agile]
+253,Intro to AI and ML,Design Thinking for Experience & Service Design,Cloud Enablement 201 
+254,[Design Thinking] + [Lean] + [Agile],Modern Culture of Data ,Design Thinking for Experience & Service Design
+255,Cloud Enablement 201 ,Robotic Process Automation (RPA),Modern Culture of Data 
+256,Design Thinking for Experience & Service Design,Modern Culture of Data ,Intro to AI and ML
+257,Robotic Process Automation (RPA),Cloud Enablement 201 ,Intro to AI and ML
+258,Design Thinking for Experience & Service Design,[Design Thinking] + [Lean] + [Agile],Cloud Enablement 201 
+259,Intro to AI and ML,[Design Thinking] + [Lean] + [Agile],Design Thinking for Experience & Service Design
+260,Modern Culture of Data ,Cloud Enablement 201 ,Robotic Process Automation (RPA)
+261,Intro to AI and ML,Robotic Process Automation (RPA),[Design Thinking] + [Lean] + [Agile]
+262,Internet of Things,Cloud Enablement 201 ,Modern Culture of Data 
+263,[Design Thinking] + [Lean] + [Agile],Robotic Process Automation (RPA),Design Thinking for Experience & Service Design
+264,Robotic Process Automation (RPA),[Design Thinking] + [Lean] + [Agile],Design Thinking for Experience & Service Design
+265,Design Thinking for Experience & Service Design,Internet of Things,Robotic Process Automation (RPA)
+266,Modern Culture of Data ,Internet of Things,Design Thinking for Experience & Service Design
+267,Cloud Enablement 201 ,[Design Thinking] + [Lean] + [Agile],Modern Culture of Data 
+268,Design Thinking for Experience & Service Design,Internet of Things,Modern Culture of Data 
+269,Design Thinking for Experience & Service Design,Cloud Enablement 201 ,[Design Thinking] + [Lean] + [Agile]
+270,Modern Culture of Data ,Cloud Enablement 201 ,Robotic Process Automation (RPA)
+271,Cloud Enablement 201 ,[Design Thinking] + [Lean] + [Agile],Modern Culture of Data 
+272,[Design Thinking] + [Lean] + [Agile],Design Thinking for Experience & Service Design,Cloud Enablement 201 
+273,Design Thinking for Experience & Service Design,Internet of Things,[Design Thinking] + [Lean] + [Agile]
+274,Internet of Things,Cloud Enablement 201 ,Intro to AI and ML
+275,Modern Culture of Data ,Cloud Enablement 201 ,[Design Thinking] + [Lean] + [Agile]
+276,[Design Thinking] + [Lean] + [Agile],Robotic Process Automation (RPA),Intro to AI and ML
+277,Internet of Things,Design Thinking for Experience & Service Design,Intro to AI and ML
+278,Cloud Enablement 201 ,Internet of Things,[Design Thinking] + [Lean] + [Agile]
+279,Intro to AI and ML,Design Thinking for Experience & Service Design,[Design Thinking] + [Lean] + [Agile]
+280,Modern Culture of Data ,Robotic Process Automation (RPA),Design Thinking for Experience & Service Design
+281,Internet of Things,Design Thinking for Experience & Service Design,Robotic Process Automation (RPA)
+282,Robotic Process Automation (RPA),[Design Thinking] + [Lean] + [Agile],Design Thinking for Experience & Service Design
+283,Design Thinking for Experience & Service Design,Cloud Enablement 201 ,Modern Culture of Data 
+284,[Design Thinking] + [Lean] + [Agile],Intro to AI and ML,Modern Culture of Data 
+285,Modern Culture of Data ,Cloud Enablement 201 ,Robotic Process Automation (RPA)
+286,Design Thinking for Experience & Service Design,[Design Thinking] + [Lean] + [Agile],Modern Culture of Data 
+287,Modern Culture of Data ,Cloud Enablement 201 ,Intro to AI and ML
+288,[Design Thinking] + [Lean] + [Agile],Design Thinking for Experience & Service Design,Robotic Process Automation (RPA)
+289,Modern Culture of Data ,Design Thinking for Experience & Service Design,Robotic Process Automation (RPA)
+290,[Design Thinking] + [Lean] + [Agile],Design Thinking for Experience & Service Design,Intro to AI and ML
+291,[Design Thinking] + [Lean] + [Agile],Internet of Things,Modern Culture of Data 
+292,Internet of Things,Robotic Process Automation (RPA),Intro to AI and ML
+293,Intro to AI and ML,Robotic Process Automation (RPA),Cloud Enablement 201 
+294,Internet of Things,Robotic Process Automation (RPA),Intro to AI and ML
+295,Cloud Enablement 201 ,[Design Thinking] + [Lean] + [Agile],Internet of Things
+296,Cloud Enablement 201 ,Intro to AI and ML,Robotic Process Automation (RPA)
+297,Design Thinking for Experience & Service Design,[Design Thinking] + [Lean] + [Agile],Internet of Things
+298,Intro to AI and ML,Modern Culture of Data ,[Design Thinking] + [Lean] + [Agile]
+299,Design Thinking for Experience & Service Design,Cloud Enablement 201 ,[Design Thinking] + [Lean] + [Agile]
+300,Internet of Things,Intro to AI and ML,Cloud Enablement 201 
+301,Internet of Things,Robotic Process Automation (RPA),Intro to AI and ML
+302,Cloud Enablement 201 ,Modern Culture of Data ,Design Thinking for Experience & Service Design
+303,Modern Culture of Data ,Robotic Process Automation (RPA),Cloud Enablement 201 
+304,Intro to AI and ML,Internet of Things,Modern Culture of Data 
+305,Modern Culture of Data ,Intro to AI and ML,Robotic Process Automation (RPA)
+306,Cloud Enablement 201 ,[Design Thinking] + [Lean] + [Agile],Modern Culture of Data 
+307,Cloud Enablement 201 ,Robotic Process Automation (RPA),Internet of Things
+308,Design Thinking for Experience & Service Design,Intro to AI and ML,Modern Culture of Data 
+309,Internet of Things,Robotic Process Automation (RPA),Intro to AI and ML
+310,[Design Thinking] + [Lean] + [Agile],Robotic Process Automation (RPA),Internet of Things
+311,[Design Thinking] + [Lean] + [Agile],Internet of Things,Robotic Process Automation (RPA)
+312,Intro to AI and ML,Internet of Things,Cloud Enablement 201 
+313,Modern Culture of Data ,Internet of Things,Robotic Process Automation (RPA)
+314,Robotic Process Automation (RPA),[Design Thinking] + [Lean] + [Agile],Modern Culture of Data 
+315,[Design Thinking] + [Lean] + [Agile],Internet of Things,Design Thinking for Experience & Service Design
+316,Internet of Things,Modern Culture of Data ,Cloud Enablement 201 
+317,Intro to AI and ML,Internet of Things,Robotic Process Automation (RPA)
+318,Modern Culture of Data ,[Design Thinking] + [Lean] + [Agile],Robotic Process Automation (RPA)
+319,[Design Thinking] + [Lean] + [Agile],Internet of Things,Modern Culture of Data 
+320,Internet of Things,Robotic Process Automation (RPA),Cloud Enablement 201 
+321,Modern Culture of Data ,Cloud Enablement 201 ,Intro to AI and ML
+322,Cloud Enablement 201 ,[Design Thinking] + [Lean] + [Agile],Intro to AI and ML
+323,Modern Culture of Data ,Internet of Things,Robotic Process Automation (RPA)
+324,Internet of Things,Cloud Enablement 201 ,Intro to AI and ML
+325,Modern Culture of Data ,Cloud Enablement 201 ,[Design Thinking] + [Lean] + [Agile]
+326,Intro to AI and ML,Modern Culture of Data ,[Design Thinking] + [Lean] + [Agile]
+327,Modern Culture of Data ,[Design Thinking] + [Lean] + [Agile],Cloud Enablement 201 
+328,[Design Thinking] + [Lean] + [Agile],Internet of Things,Design Thinking for Experience & Service Design
+329,Modern Culture of Data ,Robotic Process Automation (RPA),Cloud Enablement 201 
+330,[Design Thinking] + [Lean] + [Agile],Cloud Enablement 201 ,Design Thinking for Experience & Service Design
+331,Intro to AI and ML,Robotic Process Automation (RPA),Design Thinking for Experience & Service Design
+332,Intro to AI and ML,Internet of Things,Robotic Process Automation (RPA)
+333,Design Thinking for Experience & Service Design,Robotic Process Automation (RPA),[Design Thinking] + [Lean] + [Agile]
+334,Modern Culture of Data ,Design Thinking for Experience & Service Design,Internet of Things
+335,Cloud Enablement 201 ,Intro to AI and ML,Modern Culture of Data 
+336,Internet of Things,Robotic Process Automation (RPA),Intro to AI and ML
+337,Cloud Enablement 201 ,Modern Culture of Data ,Intro to AI and ML
+338,Robotic Process Automation (RPA),Design Thinking for Experience & Service Design,Intro to AI and ML
+339,Internet of Things,Design Thinking for Experience & Service Design,Cloud Enablement 201 
+340,Robotic Process Automation (RPA),Cloud Enablement 201 ,Intro to AI and ML
+341,Robotic Process Automation (RPA),Cloud Enablement 201 ,Internet of Things
+342,Modern Culture of Data ,Intro to AI and ML,Internet of Things
+343,[Design Thinking] + [Lean] + [Agile],Modern Culture of Data ,Cloud Enablement 201 
+344,Cloud Enablement 201 ,Modern Culture of Data ,[Design Thinking] + [Lean] + [Agile]
+345,Robotic Process Automation (RPA),Intro to AI and ML,Cloud Enablement 201 
+346,Internet of Things,Cloud Enablement 201 ,Modern Culture of Data 
+347,[Design Thinking] + [Lean] + [Agile],Modern Culture of Data ,Design Thinking for Experience & Service Design
+348,Cloud Enablement 201 ,Modern Culture of Data ,Internet of Things
+349,Modern Culture of Data ,[Design Thinking] + [Lean] + [Agile],Cloud Enablement 201 
+350,Robotic Process Automation (RPA),Modern Culture of Data ,Intro to AI and ML
+351,[Design Thinking] + [Lean] + [Agile],Cloud Enablement 201 ,Modern Culture of Data 
+352,Modern Culture of Data ,Robotic Process Automation (RPA),Cloud Enablement 201 
+353,Design Thinking for Experience & Service Design,Modern Culture of Data ,Robotic Process Automation (RPA)
+354,Internet of Things,Modern Culture of Data ,Cloud Enablement 201 
+355,Design Thinking for Experience & Service Design,[Design Thinking] + [Lean] + [Agile],Modern Culture of Data 
+356,Cloud Enablement 201 ,Robotic Process Automation (RPA),Modern Culture of Data 
+357,Intro to AI and ML,Modern Culture of Data ,Cloud Enablement 201 
+358,[Design Thinking] + [Lean] + [Agile],Intro to AI and ML,Design Thinking for Experience & Service Design
+359,Design Thinking for Experience & Service Design,Internet of Things,Intro to AI and ML
+360,Cloud Enablement 201 ,Internet of Things,Robotic Process Automation (RPA)
+361,Robotic Process Automation (RPA),Internet of Things,Modern Culture of Data 
+362,Internet of Things,Modern Culture of Data ,Cloud Enablement 201 
+363,Internet of Things,Cloud Enablement 201 ,[Design Thinking] + [Lean] + [Agile]
+364,Modern Culture of Data ,Intro to AI and ML,Internet of Things
+365,Cloud Enablement 201 ,Internet of Things,Modern Culture of Data 
+366,Design Thinking for Experience & Service Design,[Design Thinking] + [Lean] + [Agile],Robotic Process Automation (RPA)
+367,Intro to AI and ML,Modern Culture of Data ,Internet of Things
+368,Internet of Things,Cloud Enablement 201 ,[Design Thinking] + [Lean] + [Agile]
+369,Cloud Enablement 201 ,Design Thinking for Experience & Service Design,Internet of Things
+370,Design Thinking for Experience & Service Design,Internet of Things,[Design Thinking] + [Lean] + [Agile]
+371,Internet of Things,Cloud Enablement 201 ,[Design Thinking] + [Lean] + [Agile]
+372,Robotic Process Automation (RPA),Modern Culture of Data ,Cloud Enablement 201 
+373,Robotic Process Automation (RPA),Design Thinking for Experience & Service Design,Internet of Things
+374,Internet of Things,Cloud Enablement 201 ,Intro to AI and ML
+375,Robotic Process Automation (RPA),Internet of Things,Intro to AI and ML
+376,Internet of Things,Intro to AI and ML,Cloud Enablement 201 
+377,Intro to AI and ML,[Design Thinking] + [Lean] + [Agile],Internet of Things
+378,Intro to AI and ML,Design Thinking for Experience & Service Design,Internet of Things
+379,Cloud Enablement 201 ,Internet of Things,Design Thinking for Experience & Service Design
+380,Intro to AI and ML,Cloud Enablement 201 ,Robotic Process Automation (RPA)
+381,Intro to AI and ML,Modern Culture of Data ,Internet of Things
+382,Intro to AI and ML,Internet of Things,Cloud Enablement 201 
+383,Modern Culture of Data ,Cloud Enablement 201 ,Design Thinking for Experience & Service Design
+384,Cloud Enablement 201 ,Internet of Things,Modern Culture of Data 
+385,Robotic Process Automation (RPA),Design Thinking for Experience & Service Design,Cloud Enablement 201 
+386,Intro to AI and ML,Internet of Things,Robotic Process Automation (RPA)
+387,Internet of Things,Intro to AI and ML,Robotic Process Automation (RPA)
+388,Internet of Things,Intro to AI and ML,Modern Culture of Data 
+389,Intro to AI and ML,Modern Culture of Data ,Cloud Enablement 201 
+390,[Design Thinking] + [Lean] + [Agile],Cloud Enablement 201 ,Internet of Things
+391,Intro to AI and ML,[Design Thinking] + [Lean] + [Agile],Design Thinking for Experience & Service Design
+392,Intro to AI and ML,Cloud Enablement 201 ,Design Thinking for Experience & Service Design
+393,Cloud Enablement 201 ,Intro to AI and ML,Modern Culture of Data 
+394,Internet of Things,Robotic Process Automation (RPA),Cloud Enablement 201 
+395,Modern Culture of Data ,Cloud Enablement 201 ,Design Thinking for Experience & Service Design
+396,[Design Thinking] + [Lean] + [Agile],Internet of Things,Modern Culture of Data 
+397,Internet of Things,Intro to AI and ML,Robotic Process Automation (RPA)
+398,Design Thinking for Experience & Service Design,[Design Thinking] + [Lean] + [Agile],Robotic Process Automation (RPA)
+399,Cloud Enablement 201 ,Modern Culture of Data ,Intro to AI and ML
+400,[Design Thinking] + [Lean] + [Agile],Design Thinking for Experience & Service Design,Internet of Things
+401,[Design Thinking] + [Lean] + [Agile],Robotic Process Automation (RPA),Internet of Things
+402,Intro to AI and ML,Design Thinking for Experience & Service Design,Robotic Process Automation (RPA)
+403,Cloud Enablement 201 ,Internet of Things,Robotic Process Automation (RPA)
+404,Internet of Things,[Design Thinking] + [Lean] + [Agile],Robotic Process Automation (RPA)
+405,Intro to AI and ML,Robotic Process Automation (RPA),Internet of Things
+406,Design Thinking for Experience & Service Design,Modern Culture of Data ,Internet of Things
+407,Modern Culture of Data ,Intro to AI and ML,Internet of Things
+408,Modern Culture of Data ,Robotic Process Automation (RPA),Design Thinking for Experience & Service Design
+409,Cloud Enablement 201 ,[Design Thinking] + [Lean] + [Agile],Robotic Process Automation (RPA)
+410,Cloud Enablement 201 ,Intro to AI and ML,Robotic Process Automation (RPA)
+411,Internet of Things,Design Thinking for Experience & Service Design,Cloud Enablement 201 
+412,Intro to AI and ML,Design Thinking for Experience & Service Design,Robotic Process Automation (RPA)
+413,Cloud Enablement 201 ,Modern Culture of Data ,Internet of Things
+414,Internet of Things,Robotic Process Automation (RPA),Design Thinking for Experience & Service Design
+415,Design Thinking for Experience & Service Design,Internet of Things,Cloud Enablement 201 
+416,Internet of Things,Design Thinking for Experience & Service Design,Cloud Enablement 201 
+417,[Design Thinking] + [Lean] + [Agile],Modern Culture of Data ,Robotic Process Automation (RPA)
+418,Design Thinking for Experience & Service Design,Robotic Process Automation (RPA),Modern Culture of Data 
+419,[Design Thinking] + [Lean] + [Agile],Cloud Enablement 201 ,Intro to AI and ML
+420,[Design Thinking] + [Lean] + [Agile],Design Thinking for Experience & Service Design,Cloud Enablement 201 
+421,Internet of Things,Cloud Enablement 201 ,Design Thinking for Experience & Service Design
+422,Design Thinking for Experience & Service Design,Robotic Process Automation (RPA),Cloud Enablement 201 
+423,Cloud Enablement 201 ,[Design Thinking] + [Lean] + [Agile],Intro to AI and ML
+424,Modern Culture of Data ,Cloud Enablement 201 ,Design Thinking for Experience & Service Design
+425,Robotic Process Automation (RPA),[Design Thinking] + [Lean] + [Agile],Modern Culture of Data 
+426,Internet of Things,Robotic Process Automation (RPA),Modern Culture of Data 
+427,Cloud Enablement 201 ,Design Thinking for Experience & Service Design,Modern Culture of Data 
+428,Design Thinking for Experience & Service Design,Internet of Things,[Design Thinking] + [Lean] + [Agile]
+429,Design Thinking for Experience & Service Design,Internet of Things,Intro to AI and ML
+430,Design Thinking for Experience & Service Design,[Design Thinking] + [Lean] + [Agile],Modern Culture of Data 
+431,Cloud Enablement 201 ,Modern Culture of Data ,Intro to AI and ML
+432,Modern Culture of Data ,Cloud Enablement 201 ,Internet of Things
+433,Intro to AI and ML,Internet of Things,Cloud Enablement 201 
+434,Internet of Things,Design Thinking for Experience & Service Design,[Design Thinking] + [Lean] + [Agile]
+435,Cloud Enablement 201 ,Design Thinking for Experience & Service Design,[Design Thinking] + [Lean] + [Agile]
+436,Intro to AI and ML,Cloud Enablement 201 ,Internet of Things
+437,Design Thinking for Experience & Service Design,Cloud Enablement 201 ,Modern Culture of Data 
+438,Internet of Things,Modern Culture of Data ,Robotic Process Automation (RPA)
+439,Internet of Things,Intro to AI and ML,Cloud Enablement 201 
+440,Intro to AI and ML,Design Thinking for Experience & Service Design,Robotic Process Automation (RPA)
+441,Intro to AI and ML,Modern Culture of Data ,Design Thinking for Experience & Service Design
+442,Robotic Process Automation (RPA),Modern Culture of Data ,Internet of Things
+443,Modern Culture of Data ,Robotic Process Automation (RPA),Internet of Things
+444,Internet of Things,Modern Culture of Data ,Robotic Process Automation (RPA)
+445,Intro to AI and ML,Cloud Enablement 201 ,Internet of Things
+446,[Design Thinking] + [Lean] + [Agile],Robotic Process Automation (RPA),Modern Culture of Data 
+447,Intro to AI and ML,Modern Culture of Data ,Robotic Process Automation (RPA)
+448,Cloud Enablement 201 ,[Design Thinking] + [Lean] + [Agile],Internet of Things
+449,Robotic Process Automation (RPA),Internet of Things,Cloud Enablement 201 
+450,Modern Culture of Data ,Intro to AI and ML,Internet of Things
+451,Cloud Enablement 201 ,Modern Culture of Data ,Internet of Things
+452,Intro to AI and ML,Internet of Things,Robotic Process Automation (RPA)
+453,Intro to AI and ML,Modern Culture of Data ,Design Thinking for Experience & Service Design
+454,Robotic Process Automation (RPA),Intro to AI and ML,Cloud Enablement 201 
+455,Intro to AI and ML,Modern Culture of Data ,Internet of Things
+456,Intro to AI and ML,Internet of Things,Modern Culture of Data 
+457,Intro to AI and ML,Design Thinking for Experience & Service Design,Robotic Process Automation (RPA)
+458,Modern Culture of Data ,Design Thinking for Experience & Service Design,Internet of Things
+459,Internet of Things,Intro to AI and ML,Design Thinking for Experience & Service Design
+460,[Design Thinking] + [Lean] + [Agile],Modern Culture of Data ,Design Thinking for Experience & Service Design
+461,Internet of Things,Modern Culture of Data ,Cloud Enablement 201 
+462,Cloud Enablement 201 ,Robotic Process Automation (RPA),Internet of Things
+463,Internet of Things,[Design Thinking] + [Lean] + [Agile],Robotic Process Automation (RPA)
+464,Robotic Process Automation (RPA),Cloud Enablement 201 ,Design Thinking for Experience & Service Design
+465,Robotic Process Automation (RPA),Modern Culture of Data ,Design Thinking for Experience & Service Design
+466,Modern Culture of Data ,Intro to AI and ML,Design Thinking for Experience & Service Design
+467,[Design Thinking] + [Lean] + [Agile],Design Thinking for Experience & Service Design,Internet of Things
+468,[Design Thinking] + [Lean] + [Agile],Cloud Enablement 201 ,Modern Culture of Data 
+469,Design Thinking for Experience & Service Design,Internet of Things,Intro to AI and ML
+470,Internet of Things,Intro to AI and ML,[Design Thinking] + [Lean] + [Agile]
+471,Internet of Things,Cloud Enablement 201 ,Design Thinking for Experience & Service Design
+472,Cloud Enablement 201 ,Design Thinking for Experience & Service Design,Modern Culture of Data 
+473,Internet of Things,Modern Culture of Data ,Robotic Process Automation (RPA)
+474,Intro to AI and ML,Internet of Things,Design Thinking for Experience & Service Design
+475,Cloud Enablement 201 ,Robotic Process Automation (RPA),Intro to AI and ML
+476,[Design Thinking] + [Lean] + [Agile],Intro to AI and ML,Modern Culture of Data 
+477,Internet of Things,Intro to AI and ML,Design Thinking for Experience & Service Design
+478,Modern Culture of Data ,Robotic Process Automation (RPA),Internet of Things
+479,Robotic Process Automation (RPA),[Design Thinking] + [Lean] + [Agile],Modern Culture of Data 
+480,Robotic Process Automation (RPA),Cloud Enablement 201 ,Design Thinking for Experience & Service Design
+481,Internet of Things,Intro to AI and ML,Design Thinking for Experience & Service Design
+482,Internet of Things,Robotic Process Automation (RPA),Intro to AI and ML
+483,Internet of Things,Modern Culture of Data ,Design Thinking for Experience & Service Design
+484,Design Thinking for Experience & Service Design,[Design Thinking] + [Lean] + [Agile],Internet of Things
+485,Design Thinking for Experience & Service Design,Robotic Process Automation (RPA),Intro to AI and ML
+486,Intro to AI and ML,Design Thinking for Experience & Service Design,Cloud Enablement 201 
+487,[Design Thinking] + [Lean] + [Agile],Internet of Things,Modern Culture of Data 
+488,Design Thinking for Experience & Service Design,Robotic Process Automation (RPA),Internet of Things
+489,Robotic Process Automation (RPA),Internet of Things,Design Thinking for Experience & Service Design
+490,Modern Culture of Data ,Internet of Things,Robotic Process Automation (RPA)
+491,Intro to AI and ML,Design Thinking for Experience & Service Design,Cloud Enablement 201 
+492,Cloud Enablement 201 ,Design Thinking for Experience & Service Design,Internet of Things
+493,Modern Culture of Data ,Intro to AI and ML,[Design Thinking] + [Lean] + [Agile]
+494,Robotic Process Automation (RPA),Intro to AI and ML,Internet of Things
+495,Robotic Process Automation (RPA),Internet of Things,Design Thinking for Experience & Service Design
+496,Cloud Enablement 201 ,Internet of Things,Intro to AI and ML
+497,[Design Thinking] + [Lean] + [Agile],Intro to AI and ML,Internet of Things
+498,Robotic Process Automation (RPA),Cloud Enablement 201 ,[Design Thinking] + [Lean] + [Agile]
+499,Cloud Enablement 201 ,Internet of Things,Design Thinking for Experience & Service Design
+500,Design Thinking for Experience & Service Design,Cloud Enablement 201 ,Robotic Process Automation (RPA)
+501,Modern Culture of Data ,Internet of Things,Cloud Enablement 201 
+502,Internet of Things,Design Thinking for Experience & Service Design,Intro to AI and ML
+503,[Design Thinking] + [Lean] + [Agile],Intro to AI and ML,Cloud Enablement 201 
+504,Modern Culture of Data ,Cloud Enablement 201 ,Design Thinking for Experience & Service Design
+505,Internet of Things,Robotic Process Automation (RPA),Cloud Enablement 201 
+506,Robotic Process Automation (RPA),Cloud Enablement 201 ,Intro to AI and ML
+507,Robotic Process Automation (RPA),Modern Culture of Data ,Internet of Things
+508,Design Thinking for Experience & Service Design,Robotic Process Automation (RPA),Cloud Enablement 201 
+509,Design Thinking for Experience & Service Design,Intro to AI and ML,Internet of Things
+510,Internet of Things,Modern Culture of Data ,Intro to AI and ML
+511,Modern Culture of Data ,[Design Thinking] + [Lean] + [Agile],Design Thinking for Experience & Service Design
+512,Intro to AI and ML,Modern Culture of Data ,Robotic Process Automation (RPA)
+513,Internet of Things,Design Thinking for Experience & Service Design,Modern Culture of Data 
+514,Intro to AI and ML,Design Thinking for Experience & Service Design,[Design Thinking] + [Lean] + [Agile]
+515,Internet of Things,Robotic Process Automation (RPA),Intro to AI and ML
+516,Design Thinking for Experience & Service Design,Cloud Enablement 201 ,Modern Culture of Data 
+517,Intro to AI and ML,Robotic Process Automation (RPA),Modern Culture of Data 
+518,Robotic Process Automation (RPA),[Design Thinking] + [Lean] + [Agile],Modern Culture of Data 
+519,Cloud Enablement 201 ,[Design Thinking] + [Lean] + [Agile],Design Thinking for Experience & Service Design
+520,Design Thinking for Experience & Service Design,Robotic Process Automation (RPA),Cloud Enablement 201 
+521,[Design Thinking] + [Lean] + [Agile],Robotic Process Automation (RPA),Cloud Enablement 201 
+522,Intro to AI and ML,Design Thinking for Experience & Service Design,Modern Culture of Data 
+523,Internet of Things,Intro to AI and ML,Robotic Process Automation (RPA)
+524,Intro to AI and ML,Design Thinking for Experience & Service Design,Internet of Things
+525,Design Thinking for Experience & Service Design,Modern Culture of Data ,Internet of Things
+526,Robotic Process Automation (RPA),Design Thinking for Experience & Service Design,Modern Culture of Data 
+527,Design Thinking for Experience & Service Design,Modern Culture of Data ,Internet of Things
+528,[Design Thinking] + [Lean] + [Agile],Cloud Enablement 201 ,Design Thinking for Experience & Service Design
+529,Design Thinking for Experience & Service Design,[Design Thinking] + [Lean] + [Agile],Internet of Things
+530,Robotic Process Automation (RPA),Modern Culture of Data ,Design Thinking for Experience & Service Design
+531,Intro to AI and ML,Design Thinking for Experience & Service Design,Robotic Process Automation (RPA)
+532,Robotic Process Automation (RPA),Design Thinking for Experience & Service Design,Modern Culture of Data 
+533,Intro to AI and ML,Cloud Enablement 201 ,Robotic Process Automation (RPA)
+534,Cloud Enablement 201 ,Robotic Process Automation (RPA),Design Thinking for Experience & Service Design
+535,Robotic Process Automation (RPA),Cloud Enablement 201 ,Intro to AI and ML
+536,Robotic Process Automation (RPA),Internet of Things,Design Thinking for Experience & Service Design
+537,Internet of Things,Cloud Enablement 201 ,Modern Culture of Data 
+538,Modern Culture of Data ,Robotic Process Automation (RPA),[Design Thinking] + [Lean] + [Agile]
+539,Robotic Process Automation (RPA),Design Thinking for Experience & Service Design,Cloud Enablement 201 
+540,Design Thinking for Experience & Service Design,Intro to AI and ML,Robotic Process Automation (RPA)
+541,Design Thinking for Experience & Service Design,Modern Culture of Data ,Intro to AI and ML
+542,Intro to AI and ML,Cloud Enablement 201 ,Modern Culture of Data 
+543,Internet of Things,Intro to AI and ML,Design Thinking for Experience & Service Design
+544,Intro to AI and ML,Cloud Enablement 201 ,Robotic Process Automation (RPA)
+545,Robotic Process Automation (RPA),Modern Culture of Data ,Internet of Things
+546,[Design Thinking] + [Lean] + [Agile],Design Thinking for Experience & Service Design,Cloud Enablement 201 
+547,Design Thinking for Experience & Service Design,Intro to AI and ML,Robotic Process Automation (RPA)
+548,Intro to AI and ML,Robotic Process Automation (RPA),Cloud Enablement 201 
+549,Robotic Process Automation (RPA),Design Thinking for Experience & Service Design,Intro to AI and ML
+550,Robotic Process Automation (RPA),Cloud Enablement 201 ,Intro to AI and ML
+551,Internet of Things,Intro to AI and ML,Design Thinking for Experience & Service Design
+552,Design Thinking for Experience & Service Design,Intro to AI and ML,Internet of Things
+553,[Design Thinking] + [Lean] + [Agile],Design Thinking for Experience & Service Design,Cloud Enablement 201 
+554,Robotic Process Automation (RPA),Internet of Things,Cloud Enablement 201 
+555,Intro to AI and ML,Internet of Things,Robotic Process Automation (RPA)
+556,Modern Culture of Data ,Intro to AI and ML,Internet of Things
+557,Design Thinking for Experience & Service Design,Cloud Enablement 201 ,[Design Thinking] + [Lean] + [Agile]
+558,Internet of Things,Intro to AI and ML,Robotic Process Automation (RPA)
+559,Internet of Things,Design Thinking for Experience & Service Design,Cloud Enablement 201 
+560,Cloud Enablement 201 ,Internet of Things,Modern Culture of Data 
+561,Internet of Things,Design Thinking for Experience & Service Design,Cloud Enablement 201 
+562,Intro to AI and ML,[Design Thinking] + [Lean] + [Agile],Cloud Enablement 201 
+563,[Design Thinking] + [Lean] + [Agile],Design Thinking for Experience & Service Design,Cloud Enablement 201 
+564,Modern Culture of Data ,Intro to AI and ML,Design Thinking for Experience & Service Design
+565,Robotic Process Automation (RPA),Intro to AI and ML,Internet of Things
+566,Design Thinking for Experience & Service Design,Modern Culture of Data ,Robotic Process Automation (RPA)
+567,Internet of Things,Modern Culture of Data ,Design Thinking for Experience & Service Design
+568,Modern Culture of Data ,Internet of Things,Robotic Process Automation (RPA)
+569,Robotic Process Automation (RPA),Design Thinking for Experience & Service Design,Modern Culture of Data 
+570,Internet of Things,Robotic Process Automation (RPA),Design Thinking for Experience & Service Design
+571,Modern Culture of Data ,Intro to AI and ML,Robotic Process Automation (RPA)
+572,Modern Culture of Data ,Design Thinking for Experience & Service Design,Cloud Enablement 201 
+573,[Design Thinking] + [Lean] + [Agile],Internet of Things,Design Thinking for Experience & Service Design
+574,Intro to AI and ML,Modern Culture of Data ,Cloud Enablement 201 
+575,Design Thinking for Experience & Service Design,Cloud Enablement 201 ,[Design Thinking] + [Lean] + [Agile]
+576,Design Thinking for Experience & Service Design,Modern Culture of Data ,[Design Thinking] + [Lean] + [Agile]
+577,Robotic Process Automation (RPA),Design Thinking for Experience & Service Design,[Design Thinking] + [Lean] + [Agile]
