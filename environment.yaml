@@ -1,0 +1,12 @@
+name: conf
+
+channels:
+  - defaults
+
+dependencies:
+  - python=3.10
+  - pandas
+  - numpy
+  - ipykernel
+  - pip:
+    - ortools
